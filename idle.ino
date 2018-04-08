@@ -1,3 +1,9 @@
+// ------------------------------------------------------------------------------------------------------------
+// This code is to be used withe the Thinxtra Sigfox Dev Kit for Arduino!
+//
+// Codigo para ser usado como shield da Thinxtra contendo o transceiver Sigfox!
+// ------------------------------------------------------------------------------------------------------------
+
 // Include librairies
 #include <WISOL.h>
 #include <Tsensors.h>
