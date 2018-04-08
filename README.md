@@ -4,13 +4,9 @@
 #  Codes
 
 
-- [Thinxtra Xkit Uplink example](teste)
-```
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get autoremove
-sudo reboot
-```
+- [Thinxtra Xkit Uplink example](https://github.com/eron93br/sigfox/blob/master/Thinxtra/Uplink-Xkit.ino)
+
+This code can be configured with the [Low Power Library](https://github.com/rocketscream/Low-Power) to send a Sigfox message every 40 minutes. 
 
 # References
 
