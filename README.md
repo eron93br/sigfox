@@ -12,3 +12,4 @@ This code can be configured with the [Low Power Library](https://github.com/rock
 
 - [Thinxtra Xkit](https://www.thinxtra.com/xkit/)
 - [uDev EDK](https://github.com/udev-br/SIGFOX-EDK)
+- [LPWAN review](http://cpham.perso.univ-pau.fr/Paper/Talk-Rescom-16-LPWAN-review.pdf)
