@@ -7,4 +7,6 @@
 
 - [Azure IoT hub](https://www.hackster.io/daniel-thomas/sigfox-to-powerbi-with-thinxtra-xkit-and-azure-eventhub-3430db)
 
+-  [Tago.io](http://docs.tago.io/en/articles/75-thinxtra-xkit-for-sigfox)
+
 # References
